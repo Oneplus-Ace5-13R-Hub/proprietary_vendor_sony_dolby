@@ -326,8 +326,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -356,7 +356,7 @@
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
         <bass-enhancer-enable value="true" />
-        <virtual-bass-process-enable value="false" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -384,8 +384,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -427,8 +427,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="2" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -457,7 +457,7 @@
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="40" />
         <bass-enhancer-enable value="true" />
-        <virtual-bass-process-enable value="false" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -485,8 +485,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -528,8 +528,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="2" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -558,7 +558,7 @@
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
         <bass-enhancer-enable value="true" />
-        <virtual-bass-process-enable value="false" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -586,8 +586,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -629,8 +629,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="2" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -659,7 +659,7 @@
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
         <bass-enhancer-enable value="true" />
-        <virtual-bass-process-enable value="false" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -687,8 +687,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -730,8 +730,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="2" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -760,7 +760,7 @@
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
         <bass-enhancer-enable value="true" />
-        <virtual-bass-process-enable value="false" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -788,8 +788,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -831,8 +831,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -861,7 +861,7 @@
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
         <bass-enhancer-enable value="true" />
-        <virtual-bass-process-enable value="false" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -889,8 +889,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -932,8 +932,8 @@
         <virtualizer-enable value="false" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -961,8 +961,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -990,8 +990,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
@@ -1033,8 +1033,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="headphone">
         <include ieq_preset="2" />
@@ -1062,8 +1062,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
       <endpoint_type id="other">
         <include ieq_preset="2" />
@@ -1091,8 +1091,8 @@
         <virtualizer-enable value="true" />
         <virtualizer-start-band value="0" />
         <headphone-virtualizer-steerer-source-distance value="4" />
-        <bass-enhancer-enable value="false" />
-        <virtual-bass-process-enable value="false" />
+        <bass-enhancer-enable value="true" />
+        <virtual-bass-process-enable value="true" />
       </endpoint_type>
     </data>
   </profile>
